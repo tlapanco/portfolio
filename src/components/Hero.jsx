@@ -78,7 +78,7 @@ const Hero = () => {
                 transition={{ duration: 1, delay: 1.5 }}
                 className="flex flex-row items-center gap-6 my-4 md:mb-0"
                 >
-                    <motion.a href="https://github.com/user-attachments/files/17125842/cv.pdf" whileHover={{ scale: 1.05, boxShadow: "0px 0px 8px rgba(0, 0, 0, 0.3)" }}
+                    <motion.a href="https://github.com/user-attachments/files/18189494/cv.pdf" whileHover={{ scale: 1.05, boxShadow: "0px 0px 8px rgba(0, 0, 0, 0.3)" }}
                         className="z-10 cursor-pointer font-bold text-gray-200 md:w-auto p-4 border
                                      border-purple-200 rounded-full"     
                     >

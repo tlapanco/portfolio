@@ -52,8 +52,8 @@ const Contact = () => {
             <p className="text-white font-bold text-xl mb-8"> Correo electrónico:</p>
             <div className="flex items-center gap-4">
               <p className="text-5xl pb-4 text-white">◛</p>
-            <a className="cursor-pointer font-bold text-gray-200 md:w-auto py-1 px-4 border border-main-blue rounded-xl"   href="mailto:pirinola.works@gmail.com" rel="noreferrer">
-              pirinola.works@gmail.com
+            <a className="cursor-pointer font-bold text-gray-200 md:w-auto py-1 px-4 border border-main-blue rounded-xl"   href="mailto:tlapanco.amado@gmail.com" rel="noreferrer">
+              tlapanco.amado@gmail.com
             </a>            
             </div>
             <p className="text-white font-bold text-xl my-8"> Github:</p>
