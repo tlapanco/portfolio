@@ -37,19 +37,10 @@ p {
   @apply text-xl tracking-tight leading-relaxed
 }
 
-span {
-  @apply text-purple-600
-}
-
-
 .shiny-effect {
   position: absolute;
   border-radius: 50%;
   pointer-events: none;
   z-index: 1;
   background: radial-gradient(circle, rgba(14, 122, 141, 0.384), transparent 70%);
-}
-
-.bg-primary-color {
-    @apply bg-purple-600
 }
