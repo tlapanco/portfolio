@@ -3,7 +3,7 @@ export const EXPERIENCES = [
 		company: 'UPMP',
 		position: 'Desarrollador web',
 		period: 'Ene 22 - Dic 22',
-		description: 'Parte del proyecto integrador de la UPMP módulo vinculación, donde se llevo a cabo el desarrollo del sitio web de la universidad.',
+		description: 'Parte del proyecto integrador de la UPMP módulo vinculación, donde se llevó a cabo el desarrollo del sitio web de la universidad.',
 	},
 	{
 		company: 'ICO',
@@ -15,6 +15,6 @@ export const EXPERIENCES = [
 		company: 'Freelance',
 		position: 'Freelance',
 		period: '2024 - Presente',
-		description: 'Desarrollador independiente de solucines web, desde el BACK-END hasta el FRONT-END',
+		description: 'Desarrollador independiente de soluciones web, desde el BACK-END hasta el FRONT-END',
 	},
 ]
