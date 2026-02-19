@@ -1,4 +1,6 @@
 
+const currentYear = new Date().getFullYear();
+
 
 const Footer = () => {
 	return (
@@ -11,7 +13,7 @@ const Footer = () => {
 				Ver portafolio anterior <a href="https://tlapanco.github.io/portfolio/v0" rel="noreferrer" className="hover:text-main-blue" target="_blank"> aquí</a>
 			</div>
 
-			<p className='text-gray-400'>2025</p>
+			<p className='text-gray-400'>{currentYear}</p>
 
 		</div>
 	)

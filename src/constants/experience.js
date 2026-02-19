@@ -14,7 +14,15 @@ export const EXPERIENCES = [
 	{
 		company: 'Freelance',
 		position: 'Freelance',
-		period: '2024 - Presente',
+		period: 'Abril 2024 - Marzo 2025',
 		description: 'Desarrollador independiente de soluciones web, desde el BACK-END hasta el FRONT-END',
 	},
+	{
+		company: 'Tech Marti',
+		position: 'Desarrollador Full Stack',
+		period: 'Abril 2025 - Enero 2026',
+		description: 'Desarrollador Full Stack con experiencia en interfaces de escritorio nativas, creación de bases de datos, desarrollo backend y construcción de interfaces web modernas.',
+	}
 ]
+
+export const URL_PDF = 'https://tl-developer-site.infinityfreeapp.com/tl/cv.pdf';

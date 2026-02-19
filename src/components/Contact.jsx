@@ -40,13 +40,7 @@ const Contact = () => {
 								tlapanco
 							</a>
 						</div>
-						<p className="text-white font-bold text-xl my-8"> Telegram:</p>
-						<div className="flex items-center gap-4">
-							<FaTelegram className="text-white text-4xl" />
-							<a className="cursor-pointer font-bold text-gray-200 md:w-auto px-4 border border-main-blue rounded-xl" href={SOCIAL_MEDIA.telegram} target="_blank" rel="noreferrer">
-								tlapanco
-							</a>
-						</div>
+						
 					</div>
 
 				</div>
