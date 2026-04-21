@@ -22,7 +22,7 @@ export const EXPERIENCES : Array<Experience> = [
 	{
 		company: 'Tech Marti',
 		position: 'Desarrollador Full Stack',
-		period: 'Abril 2025 - Enero 2026',
+		period: 'Abril 2025 - Marzo 2026',
 		description: 'Desarrollador Full Stack con experiencia en interfaces de escritorio nativas, creación de bases de datos, desarrollo backend y construcción de interfaces web modernas.',
 	}
 ]
