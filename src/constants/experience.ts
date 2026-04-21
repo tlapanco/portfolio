@@ -4,19 +4,19 @@ export const EXPERIENCES : Array<Experience> = [
 	{
 		company: 'UPMP',
 		position: 'Desarrollador web',
-		period: 'Ene 22 - Dic 22',
+		period: 'Enero 2022 - Diciembre 2022',
 		description: 'Parte del proyecto integrador de la UPMP módulo vinculación, donde se llevó a cabo el desarrollo del sitio web de la universidad.',
 	},
 	{
 		company: 'ICO',
 		position: 'Docente',
-		period: 'Abril 23 - Abril 24',
+		period: 'Abril 2023 - Noviembre 2024',
 		description: 'Docente de la carrera de Desarrollador de sistemas y Redes',
 	},
 	{
 		company: 'Freelance',
 		position: 'Freelance',
-		period: 'Abril 2024 - Marzo 2025',
+		period: 'Noviembre 2024 - Marzo 2025',
 		description: 'Desarrollador independiente de soluciones web, desde el BACK-END hasta el FRONT-END',
 	},
 	{
